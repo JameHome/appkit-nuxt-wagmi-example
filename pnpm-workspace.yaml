@@ -1,0 +1,10 @@
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - '@reown/appkit'
+  - bigint-buffer
+  - bufferutil
+  - esbuild
+  - keccak
+  - secp256k1
+  - utf-8-validate
+  - vue-demi
